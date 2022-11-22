@@ -1,0 +1,19 @@
+*-debug.log
+*-error.log
+/.nyc_output
+/dist
+/tmp
+/yarn.lock
+package-lock.json
+node_modules
+
+*.glksave
+
+.DS_Store
+*.env
+.env
+
+### Backup package.json files created during release ###
+*.bak
+
+.idea
